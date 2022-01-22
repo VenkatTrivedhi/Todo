@@ -64,7 +64,7 @@ DATABASES = {
         'NAME': 'ensure',
         'USER': 'postgres',
         'PASSWORD': 'venky@123',
-        'HOST': 'localhost',
+        'HOST': '',
         'POST':'5432'
     }
 }
